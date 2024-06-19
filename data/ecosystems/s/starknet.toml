@@ -7351,6 +7351,15 @@ url = "https://github.com/Starknet-Es/Maths-StarknetEs"
 url = "https://github.com/Starknet-Es/StarknetEs-Aprendizaje"
 
 [[repo]]
+url = "https://github.com/Starknet-Es/Pioneros2" 
+
+[[repo]]
+url = "https://github.com/Starknet-Es/Proyectos-de-la-comunidad" 
+
+[[repo]]
+url = "https://github.com/Starknet-Es/jueves-de-cairo" 
+
+[[repo]]
 url = "https://github.com/starknet-graph/firehose-starknet"
 
 [[repo]]
